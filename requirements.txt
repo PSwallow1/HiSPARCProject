@@ -1,3 +1,4 @@
+python==3.8+
 hisparc-sapphire==2.0.0
 numpy
 scipy
